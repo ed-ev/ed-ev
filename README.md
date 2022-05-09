@@ -2,17 +2,11 @@
 
 - 🔭 Currently I don't work in the technology area, but I study to insert myself in it.
 - 🌱 Currently I dedicate time to study about Linux and also the JAVA language. I'm also studying containment - cloud computing - using technology like docker.
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: he / him / Ele.
-- ⚡ Fun fact: ...
+- 😄 Pronouns: he / him / Ele
 
 ### Tools and TechnologyS
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" />
           
 <div>
   <a href="https://github.com/edfrater">
