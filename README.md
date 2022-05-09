@@ -5,8 +5,10 @@
 
 ### Tools / technologies I'm learning
 <hr>
+
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-plain.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="40" height="40"/>
-             
+
+
 <div>
   <a href="https://github.com/edfrater">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edfrater&layout=compact&langs_count=7&theme=dracula"/> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=edfrater&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
