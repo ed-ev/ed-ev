@@ -1,10 +1,5 @@
 ### Hello! Welcome to my Github profile.👋
 
-<!--
-**ederfrater** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 Currently I don't work in the technology area, but I study to insert myself in it.
 - 🌱 Currently I dedicate time to study about Linux and also the JAVA language. I'm also studying containment - cloud computing - using technology like docker.
 - 💬 Ask me about ...
@@ -32,9 +27,3 @@ Here are some ideas to get you started:
   <a href="https://www.linkedin.com/in/eder-franco-pereira-7841b2229/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 
 </div>
-
-
-
-
-
--->
